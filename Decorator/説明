@@ -1,0 +1,15 @@
+既存のオブジェクトに対して簡単に機能を追加する
+（特異メソッド?）
+デコレータを追加する機能を持つ
+
+デコレータ　デコレータ　などにして
+時間　行番号　ファイルに書き込む内容などにもすることが出来る
+
+write_line(time + row + file_input)が
+write_line(file_input)のみになる
+
+デコレータAのwrite_lineでtime追加
+↓
+デコレータBのwrite_lineでrow追加
+↓
+本元のwrite_lineでファイルに内容を追加
