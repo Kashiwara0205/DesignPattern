@@ -5,5 +5,3 @@ Abstract Factoryとは全くの別物
 
 ProdcutとFactoryに分ける
 Productがオブジェクトで実際にそのオブジェクトを作成するのがFactory
-
-一番つかえるデザインパターンかも
